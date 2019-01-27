@@ -21,7 +21,7 @@ password: 1zz2xx3cc
 
 ## contact 
 cysild@gmail.com
-d
+
 
 ## About Laravel
 
